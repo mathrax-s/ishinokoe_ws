@@ -5,7 +5,11 @@
 ここにあるプログラムは、タッチすると音を奏でるプログラムです。
 
 Seeduino XIAOにプログラムします。
+<link href="/style.css" rel="stylesheet"></link>
+<hr class="cp_hr01" />
 <p align="center">
 <img src="https://github.com/mathrax-s/ishinokoe_ws/blob/main/StoneWS_v2_1.png" width="50%"></img><img src="https://github.com/mathrax-s/ishinokoe_ws/blob/main/StoneWS_v2_2.png" width="50%"></img>
+<hr class="cp_hr01" />
 <img src="https://github.com/mathrax-s/ishinokoe_ws/blob/main/circuit.png" width="50%"></img>
+<hr class="cp_hr01" />
 </p>
